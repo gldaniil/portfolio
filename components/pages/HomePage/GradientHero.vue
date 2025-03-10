@@ -1,7 +1,7 @@
 <template>
 	<div class="absolute h-full w-full flex justify-center items-center -z-10">
 		<div
-			class="bg-gradient-to-r from-indigo-500 from-10% to-purple-500 via-70% blur-[75px] opacity-60 animate-rotate"
+			class="bg-gradient-to-r from-sky-600 from-14% to-purple-700 blur-[75px] opacity-60 animate-rotate"
 		/>
 	</div>
 </template>
